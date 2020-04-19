@@ -4,6 +4,8 @@ import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 /* Tailwind compiled styles */
 import "./styles.css";
+import "./App.css";
+import "./assets/grad.jpg";
 
 ReactDOM.render(
 	<React.StrictMode>
